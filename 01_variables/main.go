@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	// Declaración y asignación de variable clasico
+	// Declaración y asignación de variable clásico
 	var banana string
 	banana = "Plátano"
 
@@ -27,5 +27,4 @@ func main() {
 	// Variable que acepta cualquier tipo de valor
 	var x any
 	fmt.Println(x)
-
 }
